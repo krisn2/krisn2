@@ -5,7 +5,7 @@
 
 🔧 Skills:
 
-  • Frontend: HTML, CSS, JavaScript, React,Yew
+  • Frontend: HTML, CSS, JavaScript, React
   • Backend: Node.js, Express.js, actix
   • Databases: MongoDB, SurrealDB, MySQL
   • Languages: JavaScript, Rust,C/C++, 
