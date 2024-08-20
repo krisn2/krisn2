@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krisn2
+- 👋 Hi, I’m krisn
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Rust
 - 🕸️ Web depeloper
